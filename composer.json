@@ -1,0 +1,20 @@
+{
+    "name": "trevormh/laravel-startup-helper",
+    "description": "Provides additional features to Laravel's validation",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "trevormh\\LaravelStartupHelper\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "trevormh\\LaravelStartupHelper\\StartupHelperServiceProvider"
+            ]
+        }
+    }
+}
