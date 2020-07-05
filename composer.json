@@ -2,6 +2,7 @@
     "name": "trevormh/laravel-startup-helper",
     "description": "Provides additional features to Laravel's validation",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": ">=7.0"
     },
