@@ -1,6 +1,6 @@
 {
     "name": "trevormh/laravel-startup-helper",
-    "description": "Provides additional features to Laravel's validation",
+    "description": "Provides Laravel with additional features to help during startup, such as dynamic validation messages and data sharing between middleware and controllers",
     "type": "library",
     "license": "MIT",
     "require": {
